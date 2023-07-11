@@ -1,1 +1,2 @@
-Converts a number from base 10 to base 16 
+#!/bin/bash
+printf '%x\n' $DECIMAL 
